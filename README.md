@@ -1,6 +1,6 @@
 # Android Quiz App
 
-A new Flutter project.
+A simple quiz app for android mobile devices using Dart & Flutter.
 
 ## Getting Started
 
